@@ -1,0 +1,15 @@
+RF - O projeto deverá ter um gerenciamento de venda.
+RF - O projeto deverá ter um relatorio de estoque.
+RF - O sistema deverá ter cadastro de usuarios(Funcionarios, Professores).
+RF - O Sistema deverá ter um relatorio de Vendas.
+
+RNF - O projeto da cantina deverá ser manuseado por um Funcionario.
+RNF - O Funcionario deverá realizar vendas de produtos disponiveis.
+
+RN - A compra poderá ser feita por dinheiro/cartões de credito.
+
+RS - Autenticação do usuario deverá ser um requisito para efetuar a venda.
+RS - Somente o Administrador poderá consultar o Log de Vendas.
+
+RT - Os sistema deverá ser desenvolvido na plataforma JAVA SE.
+RT - O Banco de dados utilizado deverá ser MySql.
