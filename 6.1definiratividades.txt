@@ -1,73 +1,74 @@
 Cantina
 
-1.1 Iniciação e Planejamento
-1.1.1 Concepção
+1.1 IniciaÃ§Ã£o e Planejamento
+1.1.1 ConcepÃ§Ã£o
    1.1.1.1 Definir objetivos
-	a) Entrevista com o cliente
-	b) Entrevista com o analista de negócios
-   1.1.1.2 Identificação dos Stakeholders
+   	a) Desenvolver termo de abertura
+	b) Entrevista com o cliente
+	c) Entrevista com o analista de negÃ³cios
+   1.1.1.2 IdentificaÃ§Ã£o dos Stakeholders
         a) Entrevista com o cliente
 	b) Brainstorming
 	c) Entrevista com consumidores
 	d) Entrevista com fornecedores
-   1.1.1.3 Definição de Custos
+   1.1.1.3 DefiniÃ§Ã£o de Custos
 	a) Entrevista com o cliente
-        b) Entrevista com o analista de negócios
-   1.1.1.4 Criar Documento de Visão
-	a) Definição do problema com os Stakeholders
-	b) Descrição dos Stakeholders
+        b) Entrevista com o analista de negÃ³cios
+   1.1.1.4 Criar Documento de VisÃ£o
+	a) DefiniÃ§Ã£o do problema com os Stakeholders
+	b) DescriÃ§Ã£o dos Stakeholders
 	c) Planejamento do projeto
 	d) Requisitos do sistema
 1.1.2 Viabilidade
-   1.1.2.1 Levantamento das Regras de Negócio
+   1.1.2.1 Levantamento das Regras de NegÃ³cio
 	a) Entrevista com o cliente
-	b) Entrevista com o analista de negócios
-   1.1.2.2 Identificação de Possíveis Riscos
-	a) Elaboração do documento de riscos
-	b) Inspeção no âmbito do negócios
-        c) Adequação aos fatores culturais
-1.1.3 Elicitação de requisitos
+	b) Entrevista com o analista de negÃ³cios
+   1.1.2.2 IdentificaÃ§Ã£o de PossÃ­veis Riscos
+	a) ElaboraÃ§Ã£o do documento de riscos
+	b) InspeÃ§Ã£o no Ã¢mbito do negÃ³cios
+        c) AdequaÃ§Ã£o aos fatores culturais
+1.1.3 ElicitaÃ§Ã£o de requisitos
    1.1.3.1 Definir as Funcionalidades
-        a) Esboçar casos de uso
+        a) EsboÃ§ar casos de uso
    1.1.3.2 Definir as Normas ???
-   1.1.3.3 Definir a Segurança XXX
-	a) Garantir a segurança da informação
-	b) Garantir a segurança dos negócios
+   1.1.3.3 Definir a SeguranÃ§a XXX
+	a) Garantir a seguranÃ§a da informaÃ§Ã£o
+	b) Garantir a seguranÃ§a dos negÃ³cios
    1.1.3.4 Definir as tecnologias
-	a) Criar documento de requisitos não funcionais
-   1.1.3.5 Realização de Diagrama de Casos de Uso
+	a) Criar documento de requisitos nÃ£o funcionais
+   1.1.3.5 RealizaÃ§Ã£o de Diagrama de Casos de Uso
 	a) Inserir atores
-	b) Inserir cenários
-	c) Associar atores aos cenários
-	d) Criar dependências
+	b) Inserir cenÃ¡rios
+	c) Associar atores aos cenÃ¡rios
+	d) Criar dependÃªncias
    1.1.3.6 Documento de Requisitos do Sistema XXX
-	a) Criar documento de requisitos não funcionais
+	a) Criar documento de requisitos nÃ£o funcionais
 1.1.4 Modelagem dos requisitos
-   1.1.4.1 Realização de Diagrama de Classe
+   1.1.4.1 RealizaÃ§Ã£o de Diagrama de Classe
    	a) Criar classes
-	b) Inserir atributos e métodos
-   1.1.4.2 Realização de Diagrama de Sequência
-	a) Criar os métodos e suas atribuições
-        b) Realizar a interação temporal das funcionalidades
+	b) Inserir atributos e mÃ©todos
+   1.1.4.2 RealizaÃ§Ã£o de Diagrama de SequÃªncia
+	a) Criar os mÃ©todos e suas atribuiÃ§Ãµes
+        b) Realizar a interaÃ§Ã£o temporal das funcionalidades
 1.2 Desenvolvimento
-   1.2.1 Codificação a partir do Caso de Uso mais Importante
-	a) Criar classes e atribuições a partir dos diagramas
+   1.2.1 CodificaÃ§Ã£o a partir do Caso de Uso mais Importante
+	a) Criar classes e atribuiÃ§Ãµes a partir dos diagramas
    1.2.2 Testes
-	a) Criar testes unitários
-        b) Criar testes de verificação e de validação
-   1.2.3 Refatoração
-	a) Otimizar código
-1.3 Implantação
-   1.3.1 Possível Identificação de Novos Requisitos
+	a) Criar testes unitÃ¡rios
+        b) Criar testes de verificaÃ§Ã£o e de validaÃ§Ã£o
+   1.2.3 RefatoraÃ§Ã£o
+	a) Otimizar cÃ³digo
+1.3 ImplantaÃ§Ã£o
+   1.3.1 PossÃ­vel IdentificaÃ§Ã£o de Novos Requisitos
 	a) Refinar funcionalidades
-	b) Realizar análise junto ao cliente
+	b) Realizar anÃ¡lise junto ao cliente
    1.3.2 Treinamento
         a) Realizar cursos de aprimoramento
-1.4 Manutenção
-   1.4.1 Identificação de Erros
-	a) Monitorar execução do desenvolvimento
-	b) Tratar exceções
-   1.4.2 Criação de Novos Módulos
+1.4 ManutenÃ§Ã£o
+   1.4.1 IdentificaÃ§Ã£o de Erros
+	a) Monitorar execuÃ§Ã£o do desenvolvimento
+	b) Tratar exceÃ§Ãµes
+   1.4.2 CriaÃ§Ã£o de Novos MÃ³dulos
 	a) Executar as novas funcionalidades identificadas pelo cliente
 1.5 Encerramento
    1.5.1 Termo de Encerramento
